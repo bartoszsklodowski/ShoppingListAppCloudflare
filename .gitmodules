@@ -1,0 +1,3 @@
+[submodule "cloudflare-worker-rest-api-atlas"]
+	path = cloudflare-worker-rest-api-atlas
+	url = https://github.com/bartoszsklodowski/ShoppingListAppCloudflareBackend.git
