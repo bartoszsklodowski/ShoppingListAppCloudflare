@@ -1,3 +1,9 @@
 [submodule "cloudflare-worker-rest-api-atlas"]
 	path = cloudflare-worker-rest-api-atlas
 	url = https://github.com/bartoszsklodowski/ShoppingListAppCloudflareBackend.git
+[submodule "shopping-list-app"]
+	path = shopping-list-app
+	url = https://github.com/bartoszsklodowski/ShoppingListAppCloudflareFrontend.git
+[submodule "shrill-fog-bcfa"]
+	path = shrill-fog-bcfa
+	url = https://github.com/bartoszsklodowski/ShoppingListAppCloudflarePages.git
